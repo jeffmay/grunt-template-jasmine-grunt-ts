@@ -1,5 +1,5 @@
-RequireJS template for Jasmine unit tests
------------------------------------------
+GruntTS Angular template for Jasmine unit tests
+-----------------------------------------------
 
 ## Installation
 
@@ -228,7 +228,13 @@ var require = {
 ```
 This automation can help to avoid unexpected dependency order issue
 
-### Authors / Maintainers
+### Authors / Contributors
+
+- Jeff May (@jeffmay)
+
+### Attribution
+
+Based on (grunt-template-jasmine-requirejs)[] by
 
 - Jarrod Overson (@jsoverson)
 - Cloud Chen (@cloudchen)
